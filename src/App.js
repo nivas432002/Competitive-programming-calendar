@@ -50,8 +50,8 @@ function App() {
       <Page>
         <Header />
         <Routes>
-          <Route path="contest/" element={<Home />} />
-          <Route path="contest/about" element={<About />} />
+          <Route path="Competitive-programming-calendar/" element={<Home />} />
+          <Route path="Competitive-programming-calendar/about" element={<About />} />
         </Routes>
         <Footer />
       </Page>
