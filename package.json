@@ -2,7 +2,7 @@
   "name": "contest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://neglux.github.io/contest",
+  "homepage": "https://nivas432002.github.io/Competitive-programming-calendar",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
